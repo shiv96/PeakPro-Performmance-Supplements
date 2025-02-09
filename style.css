@@ -22,8 +22,7 @@ body {
 }
 
 .logo {
-    width: 80%;
-    max-width: 1000px; 
+    width: 250px;
     animation: bounceIn 1.5s ease-in-out;
 }
 
